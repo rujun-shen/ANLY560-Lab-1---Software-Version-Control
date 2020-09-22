@@ -9,7 +9,7 @@ There are two files have been uploaded into this repository.
 - Lab 1 Software Version Control.sql
   - This SQL file contains the sql code which will create a new table to see the genre of the movies in the sakila dataset.
   - The new table will contain 4 columns: film_id, title, category_id and name.
-  - I inner joined film table, film_category table and category table from sakila dataset with the condition:
+  - I inner joined film table, film_category table and category table from sakila dataset with the conditions:
     - film_id from film table matches the film_id from film_category table
     - category_id from film_category table matches the category_id from category table
 - Lab 1 SQL Resulted Table.png
